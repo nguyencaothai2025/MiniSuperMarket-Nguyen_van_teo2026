@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.37411.7 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSupermarket.API", "MiniSupermarket.API\MiniSupermarket.API.csproj", "{8ADEABD5-54D5-42EB-9503-C25F6F9A3860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSupermarket.Winform", "MiniSupermarket.Winform\MiniSupermarket.Winform.csproj", "{6FE3DF8A-906D-4ECC-93E2-44D0033E4A49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSupermarket.Winforms", "MiniSupermarket.Winform\MiniSupermarket.Winforms.csproj", "{6FE3DF8A-906D-4ECC-93E2-44D0033E4A49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
